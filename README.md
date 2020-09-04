@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hey, I'm Michael 🚀
+Enthusiastic web development student🎓 interrested in new and emerging technologies in the world of web- and software development.
+
+⚡ Fun fact my favorite emoji is 🚀
 
 <!--
 **michael-JJ/michael-JJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
